@@ -65,9 +65,9 @@ I'm krisztina, a passionate full-stack developer originally from Budapest, Hunga
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript " width="40" height="40"/>&nbsp;
 </div>
 
-<!-- ## 🔥 My Stats
+## 🔥 My Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=krisztinanmth&theme=ambient-gradient&hide_border=true&card_width=542" alt="GitHub Streak" /></a> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=krisztinanmth&theme=ambient-gradient&hide_border=true&card_width=542" alt="GitHub Streak" /></a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisztinanmth)](https://github.com/anuraghazra/github-readme-stats) -->
 
